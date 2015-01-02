@@ -1,0 +1,9 @@
+Math
+Physics
+Chemistry
+English
+Strings
+German
+none
+none
+none
